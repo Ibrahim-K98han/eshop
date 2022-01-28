@@ -11,3 +11,28 @@ nav{
 a.navbar-brand img{
     height: 40px;
 }
+form.search-form {
+    width: 300px;
+    margin-right: 50px;
+    position: relative;
+}
+form.search-form input {
+    border-radius: 30px;
+}
+button.search-btn {
+    border-radius: 50px;
+    padding: 7px 30px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: orange;
+    border: 0;
+    color: #fff;
+}
+ul.action-menu .nav-item .nav-link{
+    margin: 0px 20px;
+    font-size: 18px;
+}
+section.slider{
+    background: #f7f7f7f7;
+}
